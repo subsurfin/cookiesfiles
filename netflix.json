@@ -1,0 +1,107 @@
+{
+  "url": "https://www.netflix.com/browse",
+  "localStorage": {
+    "nf-cl-ls-1731343647447-baw": "{\"url\":\"https://logs.netflix.com/log/www/cl/2\",\"data\":\"{\\\"currentState\\\":{\\\"4051020094133384\\\":{\\\"uiLocale\\\":\\\"en-MY\\\",\\\"type\\\":[\\\"UiLocale\\\"],\\\"id\\\":4051020094133384},\\\"4051020115678872\\\":{\\\"utcOffset\\\":19800000,\\\"type\\\":[\\\"TimeZone\\\"],\\\"id\\\":4051020115678872},\\\"4051020160579144\\\":{\\\"esn\\\":\\\"NFCDCH-MC-LKPUWVV028R0V3WVP11K8TGM1PK93J\\\",\\\"type\\\":[\\\"Esn\\\"],\\\"id\\\":4051020160579144},\\\"4051020183182885\\\":{\\\"cells\\\":{\\\"12429\\\":2,\\\"49074\\\":2,\\\"50256\\\":2,\\\"56308\\\":2,\\\"57252\\\":2,\\\"57256\\\":1,\\\"58299\\\":2,\\\"59472\\\":2,\\\"60852\\\":2,\\\"60856\\\":1,\\\"60878\\\":2,\\\"60921\\\":4,\\\"61289\\\":2,\\\"61971\\\":2,\\\"61992\\\":2,\\\"62372\\\":1,\\\"62779\\\":2,\\\"62924\\\":3,\\\"62976\\\":1,\\\"63008\\\":1,\\\"63023\\\":4,\\\"63045\\\":5,\\\"63209\\\":5,\\\"63444\\\":3,\\\"63820\\\":1,\\\"63871\\\":6,\\\"63908\\\":4,\\\"64011\\\":1,\\\"64012\\\":1,\\\"64126\\\":1,\\\"64303\\\":6,\\\"64332\\\":4,\\\"64486\\\":1,\\\"64988\\\":3,\\\"65250\\\":1,\\\"65380\\\":4},\\\"type\\\":[\\\"TestAllocations\\\"],\\\"id\\\":4051020183182885},\\\"4051020228415213\\\":{\\\"cluster\\\":\\\"nq_website_account-prod-release\\\",\\\"type\\\":[\\\"www.Cluster\\\"],\\\"id\\\":4051020228415213},\\\"4051020253145208\\\":{\\\"appVersion\\\":\\\"shakti-vf595b502\\\",\\\"type\\\":[\\\"AppVersion\\\"],\\\"id\\\":4051020253145208},\\\"4051020280930884\\\":{\\\"uiVersion\\\":\\\"shakti-vf595b502\\\",\\\"type\\\":[\\\"UiVersion\\\"],\\\"id\\\":4051020280930884},\\\"4051020373578882\\\":{\\\"url\\\":\\\"/account\\\",\\\"referrerUrl\\\":\\\"https://www.netflix.com/account/security\\\",\\\"type\\\":[\\\"Webpage\\\"],\\\"id\\\":4051020373578882},\\\"4051020418311122\\\":{\\\"userAgent\\\":\\\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\\\",\\\"type\\\":[\\\"UserAgent\\\"],\\\"id\\\":4051020418311122}},\\\"reverseDeltas\\\":[[{\\\"type\\\":[\\\"SessionCanceled\\\",\\\"SessionEnded\\\"],\\\"id\\\":4051057175478479,\\\"sequence\\\":17,\\\"time\\\":1731343647447,\\\"duration\\\":492278,\\\"sessionId\\\":4051040665357440},{\\\"view\\\":\\\"accountOverview\\\",\\\"type\\\":[\\\"Presentation\\\",\\\"Session\\\"],\\\"id\\\":4051040665357440,\\\"sequence\\\":15,\\\"time\\\":1731343155169},1],[{\\\"type\\\":[\\\"SessionCanceled\\\",\\\"SessionEnded\\\"],\\\"id\\\":4051057186421713,\\\"sequence\\\":18,\\\"time\\\":1731343647447,\\\"duration\\\":1110644.1000976562,\\\"sessionId\\\":4051020494353880},{\\\"time\\\":1731342536802.9,\\\"trackingInfo\\\":{\\\"flow\\\":\\\"websiteMember\\\",\\\"mode\\\":\\\"yourAccount\\\",\\\"actions\\\":[\\\"cancelMembershipAction\\\",\\\"managePaymentInfoAction\\\",\\\"addBackupMopAction\\\"]},\\\"view\\\":\\\"accountOverview\\\",\\\"type\\\":[\\\"NavigationLevel\\\",\\\"Session\\\"],\\\"id\\\":4051020494353880,\\\"sequence\\\":7},1],[{\\\"type\\\":[\\\"SessionCanceled\\\",\\\"SessionEnded\\\"],\\\"id\\\":4051057243484265,\\\"sequence\\\":19,\\\"time\\\":1731343647447,\\\"duration\\\":1108213,\\\"sessionId\\\":4051020351839265},{\\\"profileGuid\\\":\\\"ODSIXQFCZFDGTOIMQDWTR4HCLY\\\",\\\"type\\\":[\\\"ProfileGuid\\\",\\\"ProfileIdentity\\\",\\\"Session\\\"],\\\"id\\\":4051020351839265,\\\"sequence\\\":5,\\\"time\\\":1731342539234},1],[{\\\"type\\\":[\\\"SessionCanceled\\\",\\\"SessionEnded\\\"],\\\"id\\\":4051057270874249,\\\"sequence\\\":20,\\\"time\\\":1731343647447,\\\"duration\\\":1108213,\\\"sessionId\\\":4051020322984473},{\\\"nfvdid\\\":\\\"BQFmAAEBELA3Oke1DFy8JClsIvIatipg0eg-kDsTb-tG23tWbX68xCM24k_sF-hn8HcMZtwYPsuqSbf5SVVBa39hYXHmssiaLfCxVr3g67aH4hUBQm9_to_tUWjJWJwML8xsOkik-up5iiwv4OyHISDL0yXd6pyU\\\",\\\"type\\\":[\\\"VisitorDeviceId\\\",\\\"AccountIdentity\\\",\\\"Session\\\"],\\\"id\\\":4051020322984473,\\\"sequence\\\":4,\\\"time\\\":1731342539234},1],[{\\\"type\\\":[\\\"SessionEnded\\\"],\\\"id\\\":4051057282563436,\\\"sequence\\\":21,\\\"time\\\":1731343647447,\\\"duration\\\":1108214,\\\"sessionId\\\":4051019969695404},{\\\"source\\\":\\\"www\\\",\\\"schema\\\":{\\\"name\\\":\\\"netflixApp\\\",\\\"version\\\":\\\"1.671.0\\\"},\\\"type\\\":[\\\"Log\\\",\\\"Session\\\"],\\\"id\\\":4051019969695404,\\\"sequence\\\":1,\\\"time\\\":1731342539233}]],\\\"type\\\":\\\"CompactConsolidatedLoggingEnvelope\\\",\\\"version\\\":2,\\\"clientSendTime\\\":1731343647447}\"}",
+    "MDX_USERID": "{\"id\":null,\"data\":\"\"}",
+    "MDX_REMOTE_DEVICE_MAP": "{\"id\":\"ODSIXQFCZFDGTOIMQDWTR4HCLY\",\"data\":\"{}\"}",
+    "profile-edit": "0.8201415655810891",
+    "MDX_PROFILEID": "{\"id\":\"ODSIXQFCZFDGTOIMQDWTR4HCLY\",\"data\":\"ODSIXQFCZFDGTOIMQDWTR4HCLY\"}",
+    "IP2OT2IZJFEZHOEGLPCRPL2G7M-previewModalHasShownThumbsInfoPopup": "true",
+    "_grecaptcha": "09ANOXeZzXI7zEb7I2vjwm-XyrN7xvajwbMR-x7JPlTnTj_7SlFIlKYKqrwpHyfORFMl5W0qna_h4sJoAnM1Q4xtR99caSMbBu4jlOJA",
+    "bounceLolomo": "false"
+  },
+  "sessionStorage": {},
+  "cookies": [
+    {
+      "domain": ".netflix.com",
+      "expirationDate": 1739120008.656788,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "netflix-sans-bold-3-loaded",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "true"
+    },
+    {
+      "domain": ".netflix.com",
+      "expirationDate": 1739120008.656628,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "netflix-sans-normal-3-loaded",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "true"
+    },
+    {
+      "domain": ".netflix.com",
+      "expirationDate": 1731354808.147289,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "flwssn",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "ae14379b-1661-43b8-993f-3cbdd83579dc"
+    },
+    {
+      "domain": ".netflix.com",
+      "expirationDate": 1762875279.715975,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "nfvdid",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "BQFmAAEBELA3Oke1DFy8JClsIvIatipg0eg-kDsTb-tG23tWbX68xCM24k_sF-hn8HcMZtwYPsuqSbf5SVVBa39hYXHmssiaLfCxVr3g67aH4hUBQm9_to_tUWjJWJwML8xsOkik-up5iiwv4OyHISDL0yXd6pyU"
+    },
+    {
+      "domain": ".netflix.com",
+      "expirationDate": 1762875279.716104,
+      "hostOnly": false,
+      "httpOnly": true,
+      "name": "SecureNetflixId",
+      "path": "/",
+      "sameSite": "strict",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "v%3D3%26mac%3DAQEAEQABABQfQqsRo2oTDAXTzE-Cv3BaOyIJeB3Ggf4.%26dt%3D1731339279632"
+    },
+    {
+      "domain": ".netflix.com",
+      "expirationDate": 1762875279.716339,
+      "hostOnly": false,
+      "httpOnly": true,
+      "name": "NetflixId",
+      "path": "/",
+      "sameSite": "lax",
+      "secure": true,
+      "session": false,
+      "storeId": "0",
+      "value": "v%3D3%26ct%3DBgjHlOvcAxLtAq8NHVVNeMZkRGAirdbOHq6MoUfN8GXPTXB48CW7_vpwLTJOr-u4MMnbYy44fuaxVXw3Rx7oc-z3JEm3ANCXompIhVJ_bxfKIWrCUxK0nAwvUBbiSSseP44YN2OjvHbG9LcS-2ro7CL_vKh8tgf7yTyGOlF1J-LbSgopuZO40nQ2fuQIKVRyLKjRVKaHiELWIsGrLyieMesdLhroEPvLHG2LCPB_1AvhlWlui7vOdFYhEtzwgyS0HPsM15FANr8JVL_rULOKadyCjfY6HbkbGyRHY-WXYn_AvcFFb_N1bMCr5tDGkFtvLlkl5A1-_qP2F0qXPJ9q8-7l1XkTg8OI2niWKzUzIWu0IN2K45BPe3jNP2X4CmEVM1Ctufqb1a7pDQ_eeYlagTu9oBgIFN2506jaSs8WiMJChtHrotEIqE4szC4UkP02oyFVd-tNcLjPAzr-k9olfwFGtmKM7-Jtv3mTRmhp1lAlIFjpGMvXGAYiDgoMaenwfh8TRbFaRuFJ%26ch%3DAQEAEAABABS7VQYAbVbxbYovdXjzM9bWsxnB5EuXjhk."
+    },
+    {
+      "domain": ".netflix.com",
+      "expirationDate": 1762880009,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "OptanonConsent",
+      "path": "/",
+      "sameSite": "lax",
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "isGpcEnabled=0&datestamp=Mon+Nov+11+2024+22%3A23%3A29+GMT%2B0530+(India+Standard+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9424d1f0-6786-4ca8-bb27-680b149aab26&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false"
+    }
+  ]
+}
